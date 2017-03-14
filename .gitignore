@@ -1,0 +1,10 @@
+#My configurations:
+*.idea
+nbproject
+unpackage
+img
+other
+.project
+git.zip
+assets
+audio
